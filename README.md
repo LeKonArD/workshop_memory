@@ -2,7 +2,10 @@
 
 ## Requirements
 
-pip install pyarrow \\
-pip install pandas \\
-pip install tables \\
-pip install memory_profiler \\
+pip install pyarrow
+
+pip install pandas 
+
+pip install tables 
+
+pip install memory_profiler 
